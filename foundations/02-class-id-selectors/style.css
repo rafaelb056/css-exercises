@@ -1,9 +1,16 @@
-div{
-    color: blue;
+.odd{
+    background-color: hsl(0, 54%, 76%);
+    font-family:Verdana,DejaVu sans, sans-serif;
+}
+#text{
+    color:blue;
     font-size: 36px;
 }
-.text{
-    background-color: lightgreen;
+.adjust-font-size{
     font-size: 24px;
-    font-weight: bold;
+}
+#secund-text{
+ background-color: rgb(52, 252, 108);
+ font-size: 24px;
+ font-weight: bold;
 }
