@@ -6,7 +6,7 @@
 .no-click-me{
     background-color: #f6ff00;
 }
-.selector{
+.click-me,.no-click-me{
     font-size: 28px;
     font-family:Helvetica,"Times New Roman",sans-serif;
 }
