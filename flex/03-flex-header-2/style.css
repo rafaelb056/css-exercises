@@ -16,6 +16,7 @@ body {
   gap: 8px;
   padding: 16px;
   align-items: center;
+  justify-content: space-between;
   
   
 }
@@ -53,7 +54,14 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  gap:40px;
+  gap:16px;
+  margin: 0;
+}
+.left,.right {
+  display: flex;
+  padding: 16px;
+  gap:10px;
+  align-items: center;
 }
 
 
