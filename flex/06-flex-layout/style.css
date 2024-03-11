@@ -4,7 +4,7 @@ body {
   height: 100vh;
   margin: 0;
   overflow: hidden;
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 img {
@@ -24,4 +24,9 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+.header, .footer{
+  display: flex;
+  justify-content:space-between;
+  padding: 16px;
 }
