@@ -32,9 +32,11 @@ input {
   display: flex;
   justify-content:space-between;
   padding: 16px;
+  text-decoration-line: none;
+  
 }
 .footer{
-  background-color: #d4d4d4;
+  background-color: #eeeeee;
 }
 ul{
   display: flex;
@@ -52,4 +54,8 @@ ul{
   justify-content: center;
   flex-direction: column;
   gap:16px;
+}
+a{
+  text-decoration: none;
+  color: #666;
 }
